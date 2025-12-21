@@ -6,4 +6,12 @@ I’m an engineering student exploring programming and software by building smal
 - Strengthening fundamentals in C and C++
 - Building small projects in Python
 - Exploring web basics with HTML , CSS and JavaScript
+  
+### Skills
+
+- Languages: C, C++, Python
+- Web: HTML, CSS, JavaScript
+- Databases: SQL
+- Tools: Git, GitHub, VS Code
+
 
